@@ -20,5 +20,8 @@ I like remotely and like to travel a lot.
 <code><img src="https://image.pngaaa.com/799/6103799-middle.png" width="30px" height="28px"></code>
 <code><img src="https://w7.pngwing.com/pngs/235/872/png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs-thumbnail.png" width="30px" height="28px"></code>
 
+<br />
 
-
+- 📍 &nbsp; Current location: Surkhandarya, Uzbekistan
+- 📝 &nbsp; Ask me about anything, I am happy to help
+- 📥 &nbsp; How to reach me: [@Mexrob_Ako] (https://t.me/Mexrob_ako)
