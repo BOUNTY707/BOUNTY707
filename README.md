@@ -4,7 +4,7 @@ I make videos on YouTube about softwere development. <br />
 I like remotely and like to travel a lot.
 
 <a href="https://t.me/Mexrob_Ako">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuAtPcl_Ytv7gQP5Tq9rpv0tvmcwd0OmsETA&usqp=CAU" width="25px">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuAtPcl_Ytv7gQP5Tq9rpv0tvmcwd0OmsETA&usqp=CAU" width="30px">
 </a>
 
 <br />
