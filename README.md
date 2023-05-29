@@ -22,6 +22,6 @@ I like remotely and like to travel a lot.
 
 <br />
 
-- 📍 &nbsp; Current location: Surkhandarya, Uzbekistan
+- 📍  &nbsp; Current location: Surkhandarya, Uzbekistan
 - 📝 &nbsp; Ask me about anything, I am happy to help
 - 📥 &nbsp; How to reach me: [@_mexrob_off](https://instagram.com/_mexrob_off)
