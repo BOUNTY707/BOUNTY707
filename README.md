@@ -1,6 +1,6 @@
 ### Hi, I'm Mekhrob Turdimurotov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
 
-I make videos on YouTube about Web developer. <br />
+I Frontend Developer. <br />
 I like remotely and like to travel a lot.
 
 <a href="https://t.me/Mexrob_Ako">
