@@ -19,7 +19,7 @@ I like remotely and like to travel a lot.
 <code><img src="https://img1.gratispng.com/20180720/bv/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b13c2314.0304322315320700652463.jpg" width="25px"></code>
 <code><img src="https://image.pngaaa.com/799/6103799-middle.png" width="30px" height="28px"></code>
 <code><img src="https://w7.pngwing.com/pngs/235/872/png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs-thumbnail.png" width="30px" height="28px"></code>
-<code><img src="![image](https://github.com/BOUNTY707/BOUNTY707/assets/122361022/90fb88f6-4f58-4ec0-bc6d-8742923e3fee" width="30px" height="28px"></code>
+<code><img src="https://github.com/BOUNTY707/BOUNTY707/assets/122361022/90fb88f6-4f58-4ec0-bc6d-8742923e3fee" width="30px" height="28px"></code>
 
 <br />
 
